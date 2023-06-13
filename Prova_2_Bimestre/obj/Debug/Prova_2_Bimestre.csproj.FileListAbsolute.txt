@@ -1,0 +1,12 @@
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\bin\Debug\Prova_2_Bimestre.exe.config
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\bin\Debug\Prova_2_Bimestre.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\bin\Debug\Prova_2_Bimestre.pdb
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.csproj.AssemblyReference.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.Correcao.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.Form1.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.Properties.Resources.resources
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.csproj.GenerateResource.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.exe
+C:\Users\Valdemy\Documents\João Vitor Alvernaz\Privado\testes\Prova_2_Bimestre\Prova_2_Bimestre\obj\Debug\Prova_2_Bimestre.pdb
