@@ -26,7 +26,11 @@ namespace Prova_2_Bimestre
 
         private void button1_Click(object sender, EventArgs e)
         {
-            char [] gabarito_Ver = new char[10];
+            Resumo();
+        }
+        private void Resumo()
+        {
+            char[] gabarito_Ver = new char[10];
             try
             {
                 gabarito_Ver[0] = Convert.ToChar(textBox1.Text.ToUpper());
@@ -43,7 +47,7 @@ namespace Prova_2_Bimestre
                 int acertos = 0;
                 for (int i = 0; i < gabarito_Ver.Length; i++)
                 {
-                    if(gabarito_Ver[i] == gabarito_Certo[i])
+                    if (gabarito_Ver[i] == gabarito_Certo[i])
                     {
                         acertos++;
                     }
