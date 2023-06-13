@@ -30,6 +30,7 @@ namespace Prova_2_Bimestre
         }
         private void Resumo()
         {
+            //Caso resposta do gabarito estiver espaço dara erro!
             char[] gabarito_Ver = new char[10];
             try
             {
